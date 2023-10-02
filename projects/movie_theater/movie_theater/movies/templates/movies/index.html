@@ -1,0 +1,12 @@
+{% extends "base.html" %}
+
+{% block content %}
+   This is {{title_page}}<br><br>
+   <ul>
+   {% for dico_movie in movie_list %}
+       {% if dico_movie.show %}
+       <li>{{dico_movie.name}}</li>
+       {% endif %}
+   {% endfor %}
+   </ul>
+{% endblock content %}
