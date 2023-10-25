@@ -1,6 +1,6 @@
 ## JS Homework
 
-The output the following excercises should be printed on the JS console, on a pop-up alert window or a webpage.
+The output for the following excercises should be printed on the JS console, on a pop-up alert window or a webpage.
 
 1. Write a JavaScript program to find the area of a triangle where three sides are 5, 6, 7. Math class exists in JS.
 
