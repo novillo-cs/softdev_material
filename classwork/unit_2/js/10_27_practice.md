@@ -10,6 +10,6 @@ Let's implement a tip calculator. If the bill value is between 50 and 300, the t
 
 - Create an array called tips containing the tip value for each bill, calculated from the function you created before.
 
-- BONUS: Create an array totals containing the total values, so the bill + tip.
+- Create an array totals containing the total values, so the bill + tip.
 
 **TEST DATA:** 125, 555, and 44.
