@@ -24,7 +24,7 @@ Your tasks:
 
 - Use the calcTip function we wrote before (included in the starter code) to calculate tips and total values (bill + tip) for every bill value in the bills array. Use a for loop to perform the 10 calculations!
 
-- Write a function calcAverage which takes an array called arr as an argument. This function calculates the average of all numbers in the given array. This is a DIFFICULT challenge (we haven't done this before)! Here is how to solve it if you feel like it. Call the function with the totals array.
+- Write a function calcAverage which takes an array called arr as an argument. This function calculates the average of all numbers in the given array. Call this function with the totals array as parameter.
 
 TEST DATA: 22, 295, 176, 440, 37, 105, 10, 1100, 86, and 52.
 
