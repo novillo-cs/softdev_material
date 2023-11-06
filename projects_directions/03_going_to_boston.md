@@ -26,7 +26,7 @@ Make the HTML elements static. On your web page, you must display the following 
 
 - Player 1 and Player 2 with their current score on the current round and how many rounds the player has won.
   
-- The dice and a button to roll them.
+- The dice, and a button to roll them.
   
 - Game info: total rounds, how many rounds have been played, current round data.
 
