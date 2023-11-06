@@ -20,7 +20,7 @@ I will grade your JavaScript code. I will NOT grade CSS.
 
 - At the end of the game, the winner should be displayed on the webpage.
 
-### What should be displayed on your game webpage?
+### What should be displayed on your game web page?
 
 Make the HTML elements static. On your web page, you must display the following info: 
 
