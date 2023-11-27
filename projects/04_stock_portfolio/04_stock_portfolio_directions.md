@@ -62,6 +62,12 @@ Your application needs to work on a mobile screen or a desktop screen. Use Boots
 
 I want everybody in the group to be involved in the JavaScript coding part. 
 
+Create a detailed log to track the team members' work. Log your tasks indicating the date you developed those tasks. Also, include the decisions made by the group after
+each time you have a meeting. Upload this log to GitHub.
+
+Projects should be available on GitHub. Please create branches. So I can see the logs and check the team members' activity. The project manager should share the project
+repository with the teacher.
+
 If you have any doubt, ask me during class.
 
 
