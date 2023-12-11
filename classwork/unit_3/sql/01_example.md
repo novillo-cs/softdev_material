@@ -1,4 +1,4 @@
-##### STUDENTS #####
+## STUDENTS 
 
 CREATE TABLE students (
 	id SERIAL PRIMARY KEY,
@@ -17,7 +17,7 @@ CREATE UNIQUE INDEX osis_unique_idx ON students(osis);
 CREATE INDEX last_name_idx ON students(last_name);
 
 
-##### TEACHERS #####
+## TEACHERS 
 
 CREATE TABLE teachers (
 	id SERIAL PRIMARY KEY,
@@ -42,7 +42,7 @@ VALUES
 	('APCSA')
 	
 		
-##### CLASSES_TEACHERS #####
+## CLASSES_TEACHERS 
 CREATE TABLE classes_teachers (
 	class_id INTEGER NOT NULL,
 	teacher_id INTEGER NOT NULL,
@@ -55,7 +55,7 @@ VALUES
 	(2, 1)
 
 
-##### QUERY #####
+## QUERY 
 
 SELECT * FROM classes
 left join classes_teachers on classes.id=classes_teachers.class_id
