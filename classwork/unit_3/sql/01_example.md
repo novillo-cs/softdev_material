@@ -1,0 +1,64 @@
+##### STUDENTS #####
+
+CREATE TABLE students (
+	id SERIAL PRIMARY KEY,
+	first_name VARCHAR(25) NOT NULL,
+	last_name VARCHAR(25) NOT NULL,
+	osis VARCHAR(10) NOT NULL)
+	
+	
+INSERT INTO students (first_name, last_name, osis) 
+VALUES
+	('Justin', 'Mei', '01234'),
+	('Joseph', 'Disoma', '12582'),
+	('Reya', 'Miller', '12853')
+	
+CREATE UNIQUE INDEX osis_unique_idx ON students(osis);
+CREATE INDEX last_name_idx ON students(last_name);
+
+
+##### TEACHERS #####
+
+CREATE TABLE teachers (
+	id SERIAL PRIMARY KEY,
+	first_name VARCHAR(25) NOT NULL,
+	last_name VARCHAR(25) NOT NULL)
+	
+INSERT INTO teachers (first_name, last_name) 
+VALUES
+	('Jessica', 'Novillo'),
+	('Platek', 'Platek')
+
+ 
+##### CLASSES #####
+
+CREATE TABLE classes (
+	id SERIAL PRIMARY KEY,
+	name VARCHAR(20) NOT NULL)
+	
+INSERT INTO classes (name) 
+VALUES
+	('INTRO'),
+	('APCSA')
+	
+		
+##### CLASSES_TEACHERS #####
+CREATE TABLE classes_teachers (
+	class_id INTEGER NOT NULL,
+	teacher_id INTEGER NOT NULL,
+	FOREIGN KEY (class_id) REFERENCES classes (id),
+	FOREIGN KEY (teacher_id) REFERENCES teachers (id),
+	UNIQUE (class_id, teacher_id))
+
+INSERT INTO classes_teachers (class_id, teacher_id) 
+VALUES
+	(2, 1)
+
+
+##### QUERY #####
+
+SELECT * FROM classes
+left join classes_teachers on classes.id=classes_teachers.class_id
+left join teachers on teachers.id=classes_teachers.teacher_id
+where classes.name = 'APCSA'
+
