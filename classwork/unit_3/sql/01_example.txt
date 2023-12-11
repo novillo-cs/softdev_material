@@ -51,8 +51,7 @@ CREATE TABLE classes_teachers (
 	UNIQUE (class_id, teacher_id))
 
 INSERT INTO classes_teachers (class_id, teacher_id) 
-VALUES
-	(2, 1)
+VALUES (2, 1)
 
 
 ##### QUERY #####
