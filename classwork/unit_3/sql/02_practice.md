@@ -9,3 +9,5 @@ Based on the example provided:
 * Make a select query for each table including a filter (where)
 
 * Make at least 3 join queries to get the data from your database. Use left and right joins to see the diferences.
+
+Execute those queries in pgAdmin and then copy/paste them in the file sql_commands_queries.txt (md or pdf)
