@@ -24,6 +24,12 @@ Create a repo and branches to work with your partner. Please add the teacher as 
 
 - You must submit HTML, JS, CSS files. Also, you must include a log: You and your parter will log the tasks (including issues you had) you worked on after each time you worked on the project which means the log should include a date. I do not want to see a single line by member making a summary of what you did. I want to see what you did every day. Penalty will be applied if the log does not follow the direcions I am asking for this project.
 
-Example:
+```Example:
 
-'''2/29 - John: I worked on updating the CSS with VUE. I had a JS bug when refreshing the display field. I solved that issue by creating a new event...."
+2/29 - John: I worked on updating the CSS with VUE. I had a JS bug when refreshing the display field. I solved that issue by creating a new event...
+```
+
+### Due Date:
+
+Wednesday, March 6th at 08:00 am
+
