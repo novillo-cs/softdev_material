@@ -18,7 +18,7 @@ Create a repo and branches to work with your partner. Please add the teacher as 
 
 - Your Vue code should include these sections: data, methods, watch, computed properties.
 
-- You must submit HTML, JS and CSS files. Also, you must include a log: You and your parter will log the tasks you worked on after each time you worked on the project (including issues you had) which means the log should include a date. I do not want to see a single line by student making a summary of what you did. I want to see what you did every day. Penalty will be applied if the log does not follow the direcions I am asking for this project.
+- You must submit HTML, JS and CSS files. Also, you must include a log.txt file: You and your parter must log the tasks you did after each time you work on the project (including issues you had) which means the log should include a date. I do not want to see a single line by student making a summary of what you did. I want to see what you did every day. Penalty will be applied if the log does not follow the direcions I am asking for that file.
 
 ```Example:
 
