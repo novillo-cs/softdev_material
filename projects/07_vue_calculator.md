@@ -27,5 +27,5 @@ Create a repo and branches to work with your partner. Please add the teacher as 
 
 ### Due Date:
 
-Wednesday, March 6th at 08:00 am
+Thursday, March 7th at 08:00 am
 
