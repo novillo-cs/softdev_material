@@ -18,11 +18,11 @@ Create a repo and branches to work with your partner. Please add the teacher as 
 
 - Your Vue code should include these sections: data, methods, watch, computed properties.
 
-- You must submit HTML, JS and CSS files. Also, you must include a log.txt file: You and your parter must log the tasks you did after each time you work on the project (including issues you had) which means the log should include a date. I do not want to see a single line by student making a summary of what you did. I want to see what you did every day. Penalty will be applied if the log does not follow the direcions I am asking for that file.
-
+- You must submit HTML, JS and CSS files. Also, you must include a log.txt file: You and your parter must log the tasks you did after each time you work on the project (including issues you had) which means the log should include a date. I do not want to see a single line by student making a summary of what you did. I want to see what you did every day. Penalty will be applied if the log does not follow the direcions I am asking for that file. Please log if your partner is absent. If you are absent you need to work at home to make up your classwork. Otherwise, it would not fair for your partner.
 ```Example:
 
 2/29 - John: I worked on updating the CSS with VUE. I had a JS bug when refreshing the display field. I solved that issue by creating a new event...
+2/29 - Sophie: Absent.
 ```
 
 ### Due Date:
