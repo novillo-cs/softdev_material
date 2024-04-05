@@ -4,6 +4,7 @@
 class MovieUpdatebisView(View):
    def post(self, request, *args, **kwargs):
        movie = get_object_or_404(Movie, pk=self.kwargs["pk"])
+       # Create a form instance with POST data
        form = MovieForm(request.POST, instance=movie)
        if form.is_valid():
            form.save()
