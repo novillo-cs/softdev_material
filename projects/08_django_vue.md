@@ -1,4 +1,4 @@
-## Django and VUe.js project
+## Django and Vue.js project
 
 **Group size:** 2 students
 **Topic:** You must select a topic that interests your group
