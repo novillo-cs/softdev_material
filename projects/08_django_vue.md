@@ -25,6 +25,7 @@ Notice that you must dedicated time outside the classroom to work on this projec
 ### Requirements:
 
 - Implement user authentication. The user needs to be logged in to use your website.
+- Design and implement a small database. You must submit your database diagram (Entity Relationship Diagram). It should be uploaded to your GitHub repo.
 - Implement more than one Vue.js app. For instance, you can have one Vue.js app for each page in your website. The main menu could be done in Django with a template, unless you want to challege yourself and try to do it with Vue.js.
 - Make POST and GET request from Vue.js to Django.
 - Implement a Vue form where one field depend on another one. (example: load data in a multiselect based on a previous field selection)
