@@ -29,7 +29,7 @@ Notice that you must dedicated time outside the classroom to work on this projec
 - Make POST and GET request from Vue.js to Django.
 - Implement a Vue form where one field depend on another one. (example: load data in a multiselect based on a previous field selection)
 
-- You must submit the Django project, Vue.js project and a log.txt file: You and your parter must log the tasks you did after each time you work on the project (including issues you had) which means the log should include a date. I do not want to see a single line by student making a summary of what you did. I want to see what you did every day. Penalty will be applied if the log does not follow the direcions I am asking for that file. Please log if your partner is absent. If you are absent you need to work at home to make up your classwork. Otherwise, it would not fair for your partner.
+- You must submit the Django project, Vue.js project and a log.txt file: You and your parter must log the tasks you did after each time you work on the project (including issues you had) which means the log should include a date. I do not want to see a single line by student making a summary of what you did. I want to see what you did every day. Penalty will be applied if the log does not follow the directions I am asking for that file. Please log if your partner is absent. If you are absent you need to work at home to make up your classwork. Otherwise, it would not fair for your partner.
 
 ```Example:
 
