@@ -1,13 +1,18 @@
 ## Django and Vue.js project
 
-**Group size:** 2 students
-**Topic:** You must select a topic that interests your group
-**Due Date:** April 17, 2024 at 08:00 am
+```
+Group size: 2 students
+
+Topic: You must select a topic that interests your group
+
+Due Date: April 17, 2024 at 08:00 am
+```
 
 You must create a simple application using Django, Posgres, Vue.js, HTML, CSS (optional).
 
 Create a repo and branches to work with your partner. Please add the teacher as collaborator.
 
+Notice that you must dedicated time outside the classroom to work on this project.
 
 ### Specificaions:
 
