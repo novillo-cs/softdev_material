@@ -14,7 +14,7 @@ Create a repo and branches to work with your partner. Please add the teacher as 
 
 Notice that you must dedicated time outside the classroom to work on this project.
 
-### Specificaions:
+### Specifications:
 
 - Use Django to implement the backend.
 - Use Posgres database.
