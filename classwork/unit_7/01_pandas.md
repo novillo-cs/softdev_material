@@ -11,7 +11,6 @@ data = {"mammal": ["African Elephant", "Bottlenose Dolphin", "Cheetah", "Domesti
 
 2. Prints the hours of sleep column
 
-
 3. Prints the mammal and hours of sleep columns
 
 4. Stores the mammals and hours of sleep columns in a variable
@@ -21,3 +20,9 @@ data = {"mammal": ["African Elephant", "Bottlenose Dolphin", "Cheetah", "Domesti
 6. Prints the sleep_data for mammals who sleep less than 4 hours
 
 7. Prints the sleep_data for mammals who sleep exactly 8 hours OR less than 4 hours
+
+8. Prints the mammals dataframe using the mammal column as the index
+
+9. Stores the table consisting of only the hours of sleep in a variable ```sleep_data```
+
+10. Prints the ```sleep_data``` for mammals who sleep less than 4 hours
