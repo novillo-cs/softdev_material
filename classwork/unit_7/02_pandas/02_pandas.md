@@ -55,5 +55,5 @@ Day 2:
     
 14. Calculate the total number of ratings for each "brand" and "processor_name" combination for laptops that have NO "warranty".
     
-15. Group laptops by "brand" and "processor_name", and calculate the percentage of each laptop's price compared to the maximum price within the corresponding (brand - processor_name) group.
+15. Group laptops by "brand" and "processor_name", and calculate the percentage of each laptop's price compared to the maximum price within the corresponding (brand - processor_name) group. Use transform for this question.
 
