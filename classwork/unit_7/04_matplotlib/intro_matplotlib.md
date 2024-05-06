@@ -1,3 +1,5 @@
+Draw a line chart for the following data
+
 Date,Open,High,Low,Close
 
 01-01-2024,25.32,28.2,20.3,26.7
