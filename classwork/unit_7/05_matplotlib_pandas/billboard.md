@@ -10,6 +10,8 @@
 6. Add the x-axis label.
 7. The bars should have a black edge with a width of 2.
 
+![image](https://github.com/novillo-cs/softdev_material/assets/123229891/d56aabbb-6111-4018-8e71-22453ec1ccca)
+
 
 ## Exercise 2
 
