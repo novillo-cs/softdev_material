@@ -1,6 +1,6 @@
 ## Exercise 1
 
-Save your work here: your_repo/unit_7/05_matplotlib_pandas/la_liga/YOUR_FILES_HERE
+Save your work here: ```your_repo/unit_7/05_matplotlib_pandas/la_liga/YOUR_FILES_HERE```
 
 1. Find the 5 teams that had the most "Red Cards"
 2. Find the average number of "Long passes" made by each Position (Goalkeeper, Forward, etc)
