@@ -18,7 +18,9 @@ matplotlib
 4. Create an app daily_attendance
 5. Create a model for a table daily_attendance
 6. Inside the django project you can create a notebooks folder
+   
    ![image](https://github.com/novillo-cs/softdev_material/assets/123229891/55d2db48-b68c-4570-9356-03ebfbb52bde)
+
 
 8. Create a new notebook to start working, add these lines to link django and the notebook:
    ```
