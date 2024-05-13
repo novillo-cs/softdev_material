@@ -19,3 +19,10 @@ matplotlib
 5. Create a model for a table daily_attendance
 6. Read the attendance csv with pandas
 7. Using a dataframe insert the data in the database
+   
+   **Hints:**
+
+   - Use bulk_create
+   - This could be useful to have the data from the df to save it in the db ```df_attendance.to_dict('records')```
+   - Use batch_size. If working on lisa batch_size=100, if working on your on pc try batch_size=1000
+     
