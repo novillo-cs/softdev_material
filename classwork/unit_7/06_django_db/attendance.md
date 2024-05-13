@@ -14,8 +14,8 @@ pandas
 matplotlib
 ```
 
-4. Create a django project attendance
-5. Create an app daily_attendance
-6. Create a model for a table daily_attendance
-7. Read the attendance csv with pandas
-8. Using a dataframe insert the data in the database
+3. Create a django project attendance
+4. Create an app daily_attendance
+5. Create a model for a table daily_attendance
+6. Read the attendance csv with pandas
+7. Using a dataframe insert the data in the database
