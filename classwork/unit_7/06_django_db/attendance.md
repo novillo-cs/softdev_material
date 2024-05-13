@@ -1,6 +1,6 @@
 ## Django, db, pandas & matplotlib
 
-Save your work here: ```your_repo/unit_7/04_django_db/YOUR_FILES_HERE(CSV AND NOTEBOOK)```
+Save your work here: ```your_repo/unit_7/06_django_db/YOUR_FILES_HERE(CSV AND NOTEBOOK)```
 
 1. Create a python environment
 2. You need the following in your requirements:
