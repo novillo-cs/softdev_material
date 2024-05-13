@@ -17,8 +17,17 @@ matplotlib
 3. Create a django project attendance
 4. Create an app daily_attendance
 5. Create a model for a table daily_attendance
-6. Read the attendance csv with pandas
-7. Using a dataframe insert the data in the database
+6. Inside the django project you can create a notebooks folder
+7. Create a new notebook to start working, add these lines to link django and the notebook:
+   ```
+   import django
+   os.chdir("..")
+   os.environ.setdefault('DJANGO_SETTINGS_MODULE', 'attendance.settings')
+   os.environ["DJANGO_ALLOW_ASYNC_UNSAFE"] = "true" 
+   django.setup()
+   ```
+9. Read the attendance csv with pandas
+10. Using a dataframe insert the data in the database
    
    **Hints:**
 
