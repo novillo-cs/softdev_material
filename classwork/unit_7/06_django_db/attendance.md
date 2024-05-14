@@ -60,6 +60,6 @@ Keep working here: ```your_repo/unit_7/06_django_db/YOUR_DJANGO_PROJECT_HERE```
    
 5. Create a ```df_update```  (data comes from ```df_join```). It must contain the records that should be updated in the database.
 
-**Notice:** If you already inserted all the records in the database and you did not change any values this df will be empty, so you must manually change the field values of some recoreds in the database to test your code (open pgadmin select the data, change some values of a few records and save).
+**Notice:** If you already inserted all the records in the database and you did not change any values this df will be empty, so you must manually change the field values of some records in the database to test your code (open pgadmin select the data, change some values of a few records and save).
 
 4. Write a few lines of code to update the records in the database with the new values from ```df_update```.
