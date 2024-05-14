@@ -1,6 +1,6 @@
 # Django, db, pandas & matplotlib
 
-# Part 1
+## Part 1
 
 Save your work here: ```your_repo/unit_7/06_django_db/YOUR_DJANGO_PROJECT_HERE```
 
