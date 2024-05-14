@@ -2,7 +2,7 @@
 
 # Part 1
 
-Save your work here: ```your_repo/unit_7/06_django_db/YOUR_FILES_HERE(CSV AND NOTEBOOK)```
+Save your work here: ```your_repo/unit_7/06_django_db/YOUR_DJANGO_PROJECT_HERE```
 
 1. Create a python environment
 2. You need the following in your requirements:
@@ -45,6 +45,8 @@ matplotlib
    - Use batch_size. If working on lisa batch_size=100, if working on your own pc try batch_size=1000
      
 ## Part 2
+
+Keep working here: ```your_repo/unit_7/06_django_db/YOUR_DJANGO_PROJECT_HERE```
 
 Use the df_join explained in class and work on the following exercises:
 
