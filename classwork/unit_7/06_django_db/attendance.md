@@ -48,7 +48,7 @@ matplotlib
 
 Use the df_join explained in class and work on the following exercises:
 
-1. Create a ```df_insert```. It must contain any new records that were not found in the database.
+1. Create a ```df_insert```. It must contain any new records that were not found in the database. **Notice:** If you already insert all the records in the database this df will be empty, so you must delete a few records from the database to test your code (open pgadmin select the data and then choose the records you want to delete).
 2. Write a few lines of code to insert the data from ```df_insert``` to the database.
-3. Create a ```df_update```. It must contain the records that should be updated in the database.
+3. Create a ```df_update```. It must contain the records that should be updated in the database. **Notice:** If you already insert all the records in the database and you did not change any data this df will be empty, so you must manually change the field values of some recoreds in the database to test your code (open pgadmin select the data, change some values of a few records and save).
 2. Write a few lines of code to update the records in the database with the new values from ```df_update```.
