@@ -48,14 +48,17 @@ matplotlib
 
 Keep working here: ```your_repo/unit_7/06_django_db/YOUR_DJANGO_PROJECT_HERE```
 
-Use the df_join explained in class and work on the following exercises:
+1. Create a ```df_join``` merging the data from the two dataframes (source data and db).
+   
+2. Write some code to compare the data between the source and the db to find out if there are new records to insert into the database or records to update. Probably you will have to add new colums to ```df_join``` to have that info.
 
-1. Create a ```df_insert```. It must contain any new records that were not found in the database.
+3. Create a ```df_insert``` (data comes from ```df_join```). It must contain any new records that were not found in the database.
 
 **Notice:** If you already inserted all the records in the database this df will be empty, so you must delete a few records from the database to test your code (open pgadmin select the data and then choose the records you want to delete).
 
-2. Write a few lines of code to insert the data from ```df_insert``` into the database.
-3. Create a ```df_update```. It must contain the records that should be updated in the database.
+4. Write a few lines of code to insert the data from ```df_insert``` into the database.
+   
+5. Create a ```df_update```  (data comes from ```df_join```). It must contain the records that should be updated in the database.
 
 **Notice:** If you already inserted all the records in the database and you did not change any values this df will be empty, so you must manually change the field values of some recoreds in the database to test your code (open pgadmin select the data, change some values of a few records and save).
 
