@@ -50,7 +50,7 @@ Keep working here: ```your_repo/unit_7/06_django_db/YOUR_DJANGO_PROJECT_HERE```
 
 1. Create a ```df_join``` merging the data from the two dataframes (source data and db).
    
-2. Write some code to compare the data between the source and the db to find out if there are new records to insert into the database or records to update. Probably you will have to add new colums to ```df_join``` to have that info.
+2. Write some code to compare the data between the source and the db to find out if there are new records to insert into the database or records to update. Probably you will have to add new columns to ```df_join``` to have that info.
 
 3. Create a ```df_insert``` (data comes from ```df_join```). It must contain any new records that were not found in the database.
 
@@ -62,4 +62,24 @@ Keep working here: ```your_repo/unit_7/06_django_db/YOUR_DJANGO_PROJECT_HERE```
 
 **Notice:** If you already inserted all the records in the database and you did not change any values this df will be empty, so you must manually change the field values of some records in the database to test your code (open pgadmin select the data, change some values of a few records and save).
 
-4. Write a few lines of code to update the records in the database with the new values from ```df_update```.
+6. Write a few lines of code to update the records in the database with the new values from ```df_update```.
+
+## Part 3
+
+Keep working here: ```your_repo/unit_7/06_django_db/YOUR_DJANGO_PROJECT_HERE```
+
+Today's goal is to use Django and pandas to delete data from the database.
+
+To test this funcionality you must manually add some records in your database using pgadmin, so when you compare the data with the source file the extra records in your database will be removed. 
+
+The steps to follow are similar to what we did to insert and udate data in the previous exercise.
+
+1. Create a ```df_join``` merging the data from the two dataframes (db and source data). This join is just a little bit different from the join you used in exercise 2.
+   
+2. Write the code to compare the data between the db and the source to find out if there are any records in the database that are not in the data source. Probably you will have to add a new column to ```df_join```. This should be one line of code. 
+   
+5. Create a ```df_delete``` (data comes from ```df_join```). It must contain the records that were not found in the data source, but are present in the database.
+   
+7. Write a few lines of code to delete the ```df_delete``` data from the database.
+
+**Notice:** There is no bulk_delete.
