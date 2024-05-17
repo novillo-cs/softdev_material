@@ -16,7 +16,7 @@ Tuesday, May 21 at 10:00 pm.
 
 You will calculate a few regressions, so let's define what is a regression:
 
-A regression is a technique used to model the relationship between a dependent variable and one or more independent variables. It helps in understanding how the value of the depent varialbe changes when one or more independent variables are varied.
+A regression is a technique used to model the relationship between a dependent variable and one or more independent variables. It helps in understanding how the value of the depent variable changes when one or more independent variables are varied.
 
 ## Directions
 
