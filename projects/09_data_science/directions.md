@@ -20,7 +20,7 @@ A regression is a technique used to model the relationship between a dependent v
 
 ## Directions
 
-1. Read the file Data_Train.xlsx in a dataframe ```df_data```.
+1. Read the file airlines.xlsx in a dataframe ```df_data```.
 2. Clean the data in ```df_data```. This means remove all rows that have at least one empty value.
 4. Write a line of code to double check you do not have any null values in ```df_data```.
 5. Convert the columns that store date and time from string (object) to data and time respectively.
