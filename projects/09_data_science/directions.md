@@ -2,7 +2,7 @@
 
 ### Due date:
 
-Tuesday, May 21 at 10:00 pm.
+Tuesday, May 22 at 10:00 pm.
 
 ## Specifications
 
@@ -37,6 +37,6 @@ A regression is a technique used to model the relationship between a dependent v
 10. Build a scatter plot with x-axis: 'Duration_total_mins' and y-axis 'Price'.
 11. Let's add a simple regression line on top of the chart you created on number 10. For this regression use: ```numpy.polyfit with degree 1```
     Analyze the result (relationship between variables) and write your comments about it.
-12. Build a scatter plot with x-axis 'Duration_total_mins' and y-axis 'Price', but add different colors for the different stops. Analyze the result and write your comments about it.
+12. Build a scatter plot with x-axis 'Duration_total_mins' and y-axis 'Price', but add different colors for the different number of stops. Analyze the result and write your comments about it.
 13. Determine which route Jet Airways is the most used (write yor answer on the notebook). Create a bar chart with these most used routes (for Jet Airways) in descending order: x-axis must represent the routes, and y-axis must represent the number of routes.
 14. Another regression (a little bit more challenging) is coming on Monday...
