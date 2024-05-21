@@ -44,4 +44,4 @@ A regression is a technique used to model the relationship between a dependent v
     Implement a linear regression. You may do it for this model:
     ```Price ~ Airline * Source * Destination * Total_Stops * Dep_Description * Journey_month * Journey_weekday```
     
-    Try a different combination to see if you have a better r2.
+    Try a different combination to see if you have a better r2. Write your comments about the result
