@@ -39,4 +39,7 @@ A regression is a technique used to model the relationship between a dependent v
     Analyze the result (relationship between variables) and write your comments about it.
 12. Build a scatter plot with x-axis 'Duration_total_mins' and y-axis 'Price', but add different colors for the different number of stops. Analyze the result and write your comments about it.
 13. Determine which route Jet Airways is the most used (write yor answer on the notebook). Create a bar chart with these most used routes (for Jet Airways) in descending order: x-axis must represent the routes, and y-axis must represent the number of routes.
-14. Another regression (a little bit more challenging) is coming on Monday...
+14. Based on the regression lesson https://github.com/novillo-cs/softdev_material/blob/main/projects/09_data_science/regression/scikit.ipynb
+    Implement a linear regression. You may do it for this model:
+    ```Price ~ Airline * Source * Destination * Total_Stops * Dep_Description * Journey_month * Journey_weekday```
+    Try a different combination to see if you have a better r2.
